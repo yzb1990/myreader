@@ -1,0 +1,2 @@
+PyQt6>=6.5
+charset-normalizer>=3.0
